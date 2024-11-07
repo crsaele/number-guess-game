@@ -36,7 +36,7 @@ Python
 ## What i learned
 1. How to create a simple game using Python.
 2. How to import module's in Python (files).
-3. How to use the random module in python to generate random numbers.
-4. How to correctly indent a python function.
+3. How to use the random module in Python to generate random numbers.
+4. How to correctly indent a Python function.
 5. How to use formatted string literals (f-strings).
 6. The use of isdigit(): method.
